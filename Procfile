@@ -1,0 +1,1 @@
+web: gunicorn pizzashopproject.wsgi --jog-file -
